@@ -1,0 +1,82 @@
+### **Commonly Asked React Interview Topics**
+1. **React Basics**
+   - What are React components?
+   - Difference between functional and class components.
+   - What is JSX and why do we use it?
+
+2. **React State & Props**
+   - What is state, and how is it different from props?
+   - How do you pass props from parent to child components?
+   - Can props be changed inside a component?
+
+3. **React Hooks**
+   - Explain `useState` and `useEffect` hooks.
+   - How does `useReducer` work?
+   - What is the difference between `useMemo` and `useCallback`?
+   - How does `useRef` work?
+
+4. **React Lifecycle Methods**
+   - Explain lifecycle methods in class components.
+   - What is the React component lifecycle?
+
+5. **React Context API & State Management**
+   - How does the Context API work?
+   - Difference between Context API and Redux.
+   - What are the advantages of using Redux Toolkit (RTK)?
+   - What is RTK Query?
+
+6. **React Router**
+   - How do you implement routing in React?
+   - Difference between `<BrowserRouter>` and `<HashRouter>`.
+   - How to use `useNavigate` vs `useHistory`?
+
+7. **React Performance Optimization**
+   - How to prevent unnecessary re-renders?
+   - What is React.memo()?
+   - How does virtualization work in React?
+
+8. **Event Handling in React**
+   - How does event delegation work in React?
+   - Difference between synthetic events and native events.
+
+9. **WebSockets & Real-Time Data in React**
+   - How to implement WebSockets in React?
+   - What is the difference between polling, WebSockets, and Server-Sent Events?
+
+10. **Next.js Basics**
+   - Difference between Next.js and React.
+   - Explain SSR, SSG, ISR, and CSR.
+   - How to fetch data using `getServerSideProps()` and `getStaticProps()`?
+
+---
+
+                                                          ### **Common Frontend Interview Questions**
+#### **JavaScript & TypeScript**
+
+1. What is the difference between `var`, `let`, and `const`?
+2. What are closures in JavaScript?
+3. How does the event loop work?
+4. Difference between shallow copy and deep copy.
+5. What is debouncing and throttling?
+6. What is the difference between `==` and `===`?
+7. What are promises and async/await?
+8. Explain the concept of Hoisting.
+9. What is TypeScript, and why is it used?
+10. What are TypeScript interfaces and types?
+
+#### **HTML & CSS**
+1. What are semantic HTML elements?
+2. How does the box model work in CSS?
+3. Difference between relative, absolute, fixed, and sticky positioning.
+4. What is Flexbox, and how is it different from CSS Grid?
+5. What are media queries and how do they work?
+6. How can you optimize website performance using CSS?
+7. Explain pseudo-classes and pseudo-elements.
+
+#### **Frontend Performance & Optimization**
+1. How do you optimize the loading speed of a website?
+2. What are lazy loading and code splitting?
+3. How to reduce render blocking resources in a webpage?
+4. What is a Content Delivery Network (CDN)?
+5. What is critical rendering path?
+
