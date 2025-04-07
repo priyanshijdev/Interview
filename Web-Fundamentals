@@ -3,3 +3,9 @@
 1. CORS and different types of headers.
 
 2. Cache API calls in JavaScript.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                                           CORS and different types of headers:
+CORS stands for Cross-Origin Resource Sharing.
+It’s a security feature in browsers that blocks requests made from one origin to another unless the server allows it explicitly.
