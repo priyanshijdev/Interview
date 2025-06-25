@@ -1,0 +1,6 @@
+Q1 Complex problem I've solved?
+2. Pure Javascript QS:
+3. Implement debouncing 
+4. what is Polyfill?
+5. Implement Polyfill of map.
+6. console.log(5===5===5)
